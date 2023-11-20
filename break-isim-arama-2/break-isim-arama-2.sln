@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "break-isim-arama-2", "break-isim-arama-2\break-isim-arama-2.csproj", "{8DCCA560-5C04-4272-8EDC-E8495D9D453A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCCA560-5C04-4272-8EDC-E8495D9D453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCCA560-5C04-4272-8EDC-E8495D9D453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCCA560-5C04-4272-8EDC-E8495D9D453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCCA560-5C04-4272-8EDC-E8495D9D453A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB076D5-43FB-49C9-B76B-4D610CAB3F06}
+	EndGlobalSection
+EndGlobal
